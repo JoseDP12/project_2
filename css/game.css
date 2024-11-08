@@ -1,16 +1,16 @@
 body {
-    font-family: 'Press Start 2P', cursive; /* Retro pixel font */
+    font-family: 'Press Start 2P', cursive;
     margin: 0;
     padding: 0;
-    background-color: #e0f7fa; /* Light blue background */
-    color: #212121; /* Dark text color */
+    background-color: #e0f7fa;
+    color: #212121; 
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 header {
-    background: #ffcc00; /* Yellow header */
+    background: #ffcc00; 
     width: 100%;
     padding: 10px 0;
     text-align: center;
@@ -56,9 +56,9 @@ section {
 }
 
 h2 {
-    color: #00796b; /* Teal color for subheadings */
+    color: #00796b; 
     margin-bottom: 10px;
-    border-bottom: 2px dashed #ff5722; /* Dashed border */
+    border-bottom: 2px dashed #ff5722; 
     padding-bottom: 5px;
 }
 
@@ -68,7 +68,8 @@ p {
 }
 
 img {
-    max-width: 100%; /* Responsive images */
+    width: 300px;
+    height: auto; 
     border-radius: 8px;
     margin: 15px 0;
 }
